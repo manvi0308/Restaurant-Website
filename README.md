@@ -7,6 +7,8 @@
 <br>
 ![](https://img.shields.io/badge/Deployed-YES-brightgreen)
 ![](https://img.shields.io/badge/Suggestions-Welcome-brightgreen)
+[![HitCount](http://hits.dwyl.com/manvi0308/Restaurant-Website.svg)](http://hits.dwyl.com/manvi0308/Restaurant-Website)
+
 #### Sections of Website
 1) Header Navbar - Contains a Navigation Bar and a catchy headline
 2) Our Story - Contains some random text demonstrating the history of Restaurant
