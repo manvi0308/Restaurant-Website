@@ -1,5 +1,6 @@
 # Restaurant-Website<br>
 #### Its a fictional restaurant website made by me using HTML-CSS-JS
+![](https://img.shields.io/badge/Maintained-YES-red)
 ![](https://img.shields.io/github/stars/manvi0308/Restaurant-Website?style=flat-square)
 ![](https://img.shields.io/github/issues/manvi0308/Restaurant-Website?style=flat-square)
 #### It contains user testimonials, menu section, online reservation section and specialities section as well.
