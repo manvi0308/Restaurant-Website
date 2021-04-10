@@ -1,0 +1,44 @@
+.make-reservation img {
+    height: 450px;
+    width: 1350px;
+    margin-left: -10px;
+    margin-bottom: 200px;
+}
+
+.make-reservation h1 {
+    color: white;
+    margin-top: -600px;
+    margin-left: 380px;
+    font-size: 44px;
+    font-family: 'Source Sans Pro';
+}
+
+.make-reservation {
+    /*border: 3px solid red;*/
+    height: 500px;
+    width: 1340px;
+    margin-left: -10px;
+}
+
+.make-reservation p {
+    margin-left: 410px;
+    font-size: 40px;
+    color: goldenrod;
+    font-family: 'Playball';
+}
+
+.last-section {
+    margin-left: -10px;
+    height: 350px;
+    width: 1356px;
+    /*border: 3px solid red;*/
+    margin-top: 180px;
+    background-color: #b48c80;
+}
+
+.last-section h1 {
+    margin-left: 50px;
+    padding-top: 20px;
+    font-size: 32px;
+    color: white;
+}
