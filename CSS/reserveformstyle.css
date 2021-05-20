@@ -1,17 +1,4 @@
-.reserve {
-    margin-left: 95px;
-    /* border: 3px solid rgb(98, 133, 98);*/
-    height: 500px;
-    margin-right: 95px;
-}
 
-.left-img {
-    /*border: 3px solid red;*/
-    width: 344px;
-}
-
-.left-img img {
-    margin-top: 100px;
     height: 490px;
     width: 344px;
 }
