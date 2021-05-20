@@ -1,4 +1,9 @@
-        .last {
+   /* 
+        This contains CSS for the last section
+*/    
+
+
+.last {
             margin-top: -60px;
             height: 350px;
             background-color: black;
