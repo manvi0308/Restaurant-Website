@@ -97,12 +97,15 @@
             margin-left: 30px;
             font-size: 20px;
         }
+
+         .last h3 {
+            color: goldenrod;
+            margin-left: 400px;
+        }
+
         
         #cnt {
             margin-top: -12px;
         }
         
-        .last h3 {
-            color: goldenrod;
-            margin-left: 400px;
-        }
+        
