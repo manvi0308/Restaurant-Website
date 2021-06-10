@@ -18,17 +18,19 @@
             width: 1360px;
         }
         
+     
+        .newsletter form {
+            margin-left: 250px;
+            width: 735px;
+            /*border: 3px solid red;*/
+        }
+
         .newsletter h2 {
             margin-top: 100px;
             margin-left: 250px;
             color: goldenrod;
         }
         
-        .newsletter form {
-            margin-left: 250px;
-            width: 735px;
-            /*border: 3px solid red;*/
-        }
         
         .newsletter input {
             width: 730px;
